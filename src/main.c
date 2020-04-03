@@ -175,6 +175,8 @@ int main(int argc, char *argv[])
     gint exitCode = EXIT_SUCCESS;
     TrgClient *client;
 
+    gtk_window_set_default_icon_name ("io.github.TransmissionRemoteGtk");
+
     gtk_init(&argc, &argv);
 
 #if WIN32

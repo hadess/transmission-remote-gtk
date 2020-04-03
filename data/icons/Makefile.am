@@ -1,12 +1,12 @@
 
 icondir = $(datadir)/icons
 nobase_icon_DATA = \
-	hicolor/16x16/apps/transmission-remote-gtk.png \
-	hicolor/22x22/apps/transmission-remote-gtk.png \
-	hicolor/24x24/apps/transmission-remote-gtk.png \
-	hicolor/32x32/apps/transmission-remote-gtk.png \
-	hicolor/48x48/apps/transmission-remote-gtk.png \
-	hicolor/scalable/apps/transmission-remote-gtk.svg
+	hicolor/16x16/apps/io.github.TransmissionRemoteGtk.png \
+	hicolor/22x22/apps/io.github.TransmissionRemoteGtk.png \
+	hicolor/24x24/apps/io.github.TransmissionRemoteGtk.png \
+	hicolor/32x32/apps/io.github.TransmissionRemoteGtk.png \
+	hicolor/48x48/apps/io.github.TransmissionRemoteGtk.png \
+	hicolor/scalable/apps/io.github.TransmissionRemoteGtk.svg
 
 EXTRA_DIST = $(nobase_icon_DATA)
 

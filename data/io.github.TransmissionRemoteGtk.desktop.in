@@ -2,7 +2,7 @@
 Name=Transmission Remote
 Comment=Remotely manage the Transmission BitTorrent client
 Exec=transmission-remote-gtk %U
-Icon=transmission-remote-gtk
+Icon=io.github.TransmissionRemoteGtk
 Terminal=false
 Type=Application
 MimeType=application/x-bittorrent;x-scheme-handler/magnet;
